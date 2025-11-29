@@ -3,7 +3,7 @@
 # Project overview
 Welcome to ToyCraft Tales, a data visualization project that dives into the vibrant world of toy manufacturing using the power of Tableau. This project uncovers hidden patterns, market trends, and consumer preferences through interactive and insightful dashboards.
 # Website Access
-# [https://gleaming-puppy-881a3b.netlify.app/](https://jyoshana12.github.io/Toycraft-/)
+# https://jyoshana12.github.io/Toycraft-/
      
 # Website pages
 
